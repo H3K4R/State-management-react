@@ -1,6 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+# About the Project
+The context api provides us with useful hook called useContext that lets us use a state in any of our component we want.
 
 In the project directory, you can run:
 
